@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **marcomelloni/marcomelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![3D Contribution](profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution](profile-3d-contrib/profile-south-season.svg)
