@@ -2,14 +2,14 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # Esegue ogni giorno alle 18:00 UTC (19:00 IT)
+    - cron: "0 18 * * *"  # 18:00 UTC (19:00 IT)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Permette il push
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,5 +24,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "Update 3D contribution graph"; then
-            git push
+            git push "https://${{ github.actor }}:${{ secrets.MY_PRIVATE_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
           fi
