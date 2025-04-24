@@ -1,16 +1,12 @@
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # Esegue ogni giorno alle 18:00 UTC (19:00 in Italia)
-    - cron: "0 18 * * *"
-  workflow_dispatch: # Permette di eseguirlo manualmente
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write  # Permette al token di fare push
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Usa il token con permessi
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
