@@ -1,12 +1,14 @@
-# Hi, I'm Marco! 👋
+## 👋 Hi, I'm Marco!
 
-I'm a **Digital Automation Engineering student** at the **University of Modena and Reggio Emilia** (Italy 🇮🇹), passionate about **engineering**, **simulations**, and **software development**.
+🎓 I'm a **Digital Automation Engineering** student at the **University of Modena and Reggio Emilia** (Italy 🇮🇹), passionate about **engineering**, **simulations**, and **software development**.
 
-In 2021, I had the opportunity to live in **Cambridge**  (United Kingdom 🇬🇧), and in **2025** I'm currently based in **Aarhus** (Denmark 🇩🇰), where I'm completing an **internship at Aarhus University** in the field of **Digital Twin**.
+🌍 In **2021**, I lived in **Cambridge** (United Kingdom 🇬🇧), and currently, in **2025**, I'm based in **Aarhus** (Denmark 🇩🇰), where I'm doing an **internship at Aarhus University** in the field of **Digital Twin**.
 
-## Skills 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/marco.melloni.731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melloni) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/marshmellonss/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:marcomelloni01@gmail.com) [![MELcontrol](https://img.shields.io/badge/MELcontrol-28a745?style=flat&logo=&logoColor=white)](https://www.melcontrol.it) 
 
-### Programming Languages    
+## Skills 🥷🏻
+
+### Backend   
 <p align="left">
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"             alt="JavaScript" width="40" height="40"/></a>
@@ -37,13 +39,11 @@ In 2021, I had the opportunity to live in **Cambridge**  (United Kingdom 🇬�
   <!-- Python -->
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <!-- AnyLogic -->
-  <a href="https://www.anylogic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_AnyLogic.png" alt="AnyLogic" width="100" height="40"/></a>
+  <a href="https://www.anylogic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_AnyLogic.png" alt="AnyLogic" width="100" height="45"/></a>
   <!-- CoppeliaSim -->
-  <a href="https://www.coppeliarobotics.com/"><img src="https://manual.coppeliarobotics.com/en/images/CoppeliaSim.png" alt="CoppeliaSim" width="120" height="40"/></a>
+  <a href="https://www.coppeliarobotics.com/"><img src="https://manual.coppeliarobotics.com/en/images/CoppeliaSim.png" alt="CoppeliaSim" width="120" height="35"/></a>
    <!-- Unreal Engine -->
   <a href="https://www.unrealengine.com/"><img src="https://www.logo.wine/a/logo/Unreal_Engine/Unreal_Engine-Logo.wine.svg" alt="Unreal Engine" width="40" height="40"/></a>
-  <!-- Unity -->
-  <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="40" height="40"/></a>
 </p>
 
 
@@ -52,6 +52,10 @@ In 2021, I had the opportunity to live in **Cambridge**  (United Kingdom 🇬�
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://supabase.com/">
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--dark.svg" alt="Supabase" width="100" height="40"/>
+</a>
+
 </p>
 
 ### DevOps & Tools  
@@ -62,12 +66,6 @@ In 2021, I had the opportunity to live in **Cambridge**  (United Kingdom 🇬�
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
-
+### Contribution  
 
 ![3D Contribution](profile-3d-contrib/profile-south-season-animate.svg)
-
-
-### Let's Connect!  
-📧 **Email:** [marcomelloni01@gmail.com](mailto:marcomelloni01@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/marco-melloni](https://www.linkedin.com/in/marco-melloni/)  
-
