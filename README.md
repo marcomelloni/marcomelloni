@@ -68,6 +68,6 @@ In 2021, I had the opportunity to live in **Cambridge**  (United Kingdom 🇬�
 
 
 ### Let's Connect!  
-📧 **Email:** [vanessascherma.job@gmail.com](mailto:marcomelloni01@gmail.com)  
+📧 **Email:** [marcomelloni01@gmail.com](mailto:marcomelloni01@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/marco-melloni](https://www.linkedin.com/in/marco-melloni/)  
 
