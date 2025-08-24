@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Marco!
 
-🎓 I'm a **Digital Automation Engineering** student at the **University of Modena and Reggio Emilia** (Italy 🇮🇹), passionate about **engineering**, **simulations**, and **software development**.
+🎓 **Management Engineering (B.Sc.)** & **Digital Automation Engineering (M.Sc.)** @UNIMORE 🇮🇹  
+🔧 Passionate about **engineering, simulations & software**  
+💻 Currently working in **Digital Twin & simulation**
 
-🌍 In **2021**, I lived in **Cambridge** (United Kingdom 🇬🇧), and currently, in **2025**, I'm based in **Aarhus** (Denmark 🇩🇰), where I'm doing an **internship at Aarhus University** in the field of **Digital Twin**.
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/marco.melloni.731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melloni) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/marshmellonss/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:marcomelloni01@gmail.com) [![MELcontrol](https://img.shields.io/badge/MELcontrol-28a745?style=flat&logo=&logoColor=white)](https://www.melcontrol.it) 
 
@@ -26,7 +27,6 @@
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/></a>
 </p>
 
 ### Simulators
